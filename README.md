@@ -1,7 +1,7 @@
 # Análisis de Salud Mundial con Python y Pandas
 
 ## Autor
-**Maeñyin**
+"" Carlos Andres Vargas Mesa
 
 ## Descripción del proyecto
 Este proyecto presenta un análisis exploratorio de un dataset de salud mundial utilizando Python y Pandas.  
